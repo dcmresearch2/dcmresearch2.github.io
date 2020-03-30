@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Medical Home",
-    "currentPage": "year3sem2pead2.html",
+    "currentPage": "Health science courses.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -534,7 +534,7 @@
               ".hamburger span": {
                 "position": "absolute",
                 "right": "0",
-                "width": "20px",
+                "width": "22px",
                 "height": "2px",
                 "border-right": "5px",
                 "background-color": "@hamburgerColor",
@@ -1149,7 +1149,7 @@
               ".hamburger span": {
                 "position": "absolute",
                 "right": "0",
-                "width": "20px",
+                "width": "22px",
                 "height": "2px",
                 "border-right": "5px",
                 "background-color": "@hamburgerColor",
@@ -1742,7 +1742,7 @@
               ".hamburger span": {
                 "position": "absolute",
                 "right": "0",
-                "width": "20px",
+                "width": "22px",
                 "height": "2px",
                 "border-right": "5px",
                 "background-color": "@hamburgerColor",
@@ -2291,7 +2291,7 @@
               ".hamburger span": {
                 "position": "absolute",
                 "right": "0",
-                "width": "20px",
+                "width": "22px",
                 "height": "2px",
                 "border-right": "5px",
                 "background-color": "@hamburgerColor",
@@ -2956,7 +2956,7 @@
               ".hamburger span": {
                 "position": "absolute",
                 "right": "0",
-                "width": "20px",
+                "width": "22px",
                 "height": "2px",
                 "border-right": "5px",
                 "background-color": "@hamburgerColor",
@@ -3621,7 +3621,7 @@
               ".hamburger span": {
                 "position": "absolute",
                 "right": "0",
-                "width": "20px",
+                "width": "22px",
                 "height": "2px",
                 "border-right": "5px",
                 "background-color": "@hamburgerColor",
@@ -4056,7 +4056,7 @@
               ".hamburger span": {
                 "position": "absolute",
                 "right": "0",
-                "width": "20px",
+                "width": "22px",
                 "height": "2px",
                 "border-right": "5px",
                 "background-color": "@hamburgerColor",
@@ -4491,7 +4491,7 @@
               ".hamburger span": {
                 "position": "absolute",
                 "right": "0",
-                "width": "20px",
+                "width": "22px",
                 "height": "2px",
                 "border-right": "5px",
                 "background-color": "@hamburgerColor",
@@ -4926,7 +4926,7 @@
               ".hamburger span": {
                 "position": "absolute",
                 "right": "0",
-                "width": "20px",
+                "width": "22px",
                 "height": "2px",
                 "border-right": "5px",
                 "background-color": "@hamburgerColor",
@@ -5361,7 +5361,7 @@
               ".hamburger span": {
                 "position": "absolute",
                 "right": "0",
-                "width": "20px",
+                "width": "22px",
                 "height": "2px",
                 "border-right": "5px",
                 "background-color": "@hamburgerColor",
@@ -6180,7 +6180,7 @@
               ".hamburger span": {
                 "position": "absolute",
                 "right": "0",
-                "width": "20px",
+                "width": "23px",
                 "height": "2px",
                 "border-right": "5px",
                 "background-color": "@hamburgerColor",
@@ -6682,7 +6682,7 @@
               ".hamburger span": {
                 "position": "absolute",
                 "right": "0",
-                "width": "20px",
+                "width": "22px",
                 "height": "2px",
                 "border-right": "5px",
                 "background-color": "@hamburgerColor",
@@ -7143,7 +7143,7 @@
               ".hamburger span": {
                 "position": "absolute",
                 "right": "0",
-                "width": "20px",
+                "width": "22px",
                 "height": "2px",
                 "border-right": "5px",
                 "background-color": "@hamburgerColor",
@@ -7697,7 +7697,7 @@
               ".hamburger span": {
                 "position": "absolute",
                 "right": "0",
-                "width": "20px",
+                "width": "22px",
                 "height": "2px",
                 "border-right": "5px",
                 "background-color": "@hamburgerColor",
@@ -7979,11 +7979,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "rUJurgQmx5",
+          "_anchor": "content4-m5",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content4-m5"
+          "_params": {}
         },
         {
           "alias": false,
@@ -8046,11 +8046,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "rUJuri4asd",
+          "_anchor": "toggle1-m6",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "toggle1-m6"
+          "_params": {}
         },
         {
           "alias": false,
@@ -8072,11 +8072,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "rUJurjWjrH",
+          "_anchor": "content4-m7",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content4-m7"
+          "_params": {}
         },
         {
           "alias": false,
@@ -8139,11 +8139,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "rUJurl99Sd",
+          "_anchor": "toggle1-m8",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "toggle1-m8"
+          "_params": {}
         },
         {
           "alias": false,
@@ -8165,11 +8165,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "rUJurmPKV3",
+          "_anchor": "footer6-m9",
           "_protectedParams": [],
           "_global": true,
           "_once": "footers",
-          "_params": {},
-          "_anchor": "footer6-m9"
+          "_params": {}
         },
         {
           "alias": false,
@@ -8344,7 +8344,7 @@
               ".hamburger span": {
                 "position": "absolute",
                 "right": "0",
-                "width": "20px",
+                "width": "22px",
                 "height": "2px",
                 "border-right": "5px",
                 "background-color": "@hamburgerColor",
