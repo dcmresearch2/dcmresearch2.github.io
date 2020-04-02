@@ -711,7 +711,7 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-rRUehq4hv7 {
-  padding-top: 45px;
+  padding-top: 60px;
   padding-bottom: 30px;
   background-color: #0c5c66;
 }
@@ -1814,6 +1814,7 @@ section.lazy-placeholder:after {
 }
 .cid-rKmu9RFUk5 .mbr-section-subtitle {
   color: #232323;
+  text-align: center;
 }
 .cid-rKmu9RFUk5 .container-table {
   margin: 0 auto;
@@ -1832,10 +1833,10 @@ section.lazy-placeholder:after {
   overflow-x: auto;
 }
 .cid-rKmu9RFUk5 table {
-  border-radius: 24px;
+  border-radius: 0px;
   width: 100% !important;
   margin-top: 6px;
-  border: 1px solid #767676;
+  border: 1px solid #0c5c66;
   margin-bottom: 0;
 }
 .cid-rKmu9RFUk5 table th {
@@ -1844,11 +1845,11 @@ section.lazy-placeholder:after {
   border-bottom: none;
 }
 .cid-rKmu9RFUk5 table th:hover {
-  background: #767676;
+  background: #0c5c66;
   color: #ffffff;
 }
 .cid-rKmu9RFUk5 table td {
-  border-top: 1px solid #767676;
+  border-top: 1px solid #0c5c66;
 }
 .cid-rKmu9RFUk5 table.table {
   background: #ffffff;
@@ -1863,8 +1864,8 @@ section.lazy-placeholder:after {
 }
 .cid-rKmu9RFUk5 .dataTables_filter input {
   display: inline;
-  width: auto;
-  margin-left: .5rem;
+  width: 50%;
+  margin-left: 0rem;
   border-radius: 100px;
   padding-left: 1rem;
   border: 1px solid black;
@@ -1875,12 +1876,12 @@ section.lazy-placeholder:after {
   padding-top: 1rem;
   white-space: normal !important;
 }
-@media (max-width: 992px) {
+@media (max-width: 1000px) {
   .cid-rKmu9RFUk5 .dataTables_filter {
     text-align: center;
   }
 }
-@media (max-width: 350px) {
+@media (max-width: 500px) {
   .cid-rKmu9RFUk5 .dataTables_filter {
     text-align: center;
   }
@@ -1891,6 +1892,7 @@ section.lazy-placeholder:after {
 }
 .cid-rKmu9RFUk5 .mbr-section-title {
   color: #232323;
+  text-align: center;
 }
 .cid-rSTYmesbyp {
   padding-top: 15px;
@@ -6022,8 +6024,26 @@ section.lazy-placeholder:after {
 .cid-rSTVVct2GI .media-container-row .mbr-text {
   text-align: center;
 }
+.cid-rUYvho9qO5 {
+  padding-top: 90px;
+  padding-bottom: 15px;
+  background-color: #f7fcfc;
+}
+.cid-rUYvho9qO5 H2 {
+  text-align: left;
+  color: #484747;
+}
+.cid-rUYvho9qO5 H3 {
+  text-align: left;
+  color: #232323;
+}
+.cid-rUYvho9qO5 .mbr-text,
+.cid-rUYvho9qO5 .mbr-section-btn {
+  text-align: left;
+  color: #4d4d4d;
+}
 .cid-rUVcoz4IRh {
-  padding-top: 120px;
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #f7fcfc;
 }
